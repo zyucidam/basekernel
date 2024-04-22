@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "page.h": "c",
+        "kmalloc.h": "c",
+        "named_pipe.h": "c",
+        "types.h": "c"
+    }
+}
