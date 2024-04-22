@@ -1,5 +1,5 @@
 # CS3103 Operating Systems project b
-Do not copy any code from this repository. Please follow the Rules on Academic Honesty that approved by the Senate, see the [Rules on Academic Honesty].(https://www.cityu.edu.hk/pvdp/academic_honesty/doc/rules_on_academic_honesty.pdf).
+Do not copy any code from this repository. Please follow the Rules on Academic Honesty that approved by the Senate, see the [Rules on Academic Honesty](https://www.cityu.edu.hk/pvdp/academic_honesty/doc/rules_on_academic_honesty.pdf).
 
 # The Basekernel Operating System Kernel
 
